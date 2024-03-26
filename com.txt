@@ -1,0 +1,13 @@
+git fetch origin
+
+git merge origin/master
+
+
+git log
+
+git show <commit-hash>
+
+git add <affected-files>
+git commit --amend --no-edit
+
+git push origin <branch-name>
